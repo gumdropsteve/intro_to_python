@@ -1,0 +1,2 @@
+- [Lecture Notes](https://docs.google.com/document/d/1Qwana8URpVsXhylA5hFevXGi3MYOeiSuFRy-jG3mg60/edit?usp=sharing)
+- [Python for Data Science textbook](https://jakevdp.github.io/PythonDataScienceHandbook)
