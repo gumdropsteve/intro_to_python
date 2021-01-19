@@ -11,7 +11,7 @@ Go through all of the above notebooks and **submit the last presentation Noteboo
 
 Level 1 Bonus: Create a line chart to compare [$AAPL](https://github.com/gumdropsteve/datasets/raw/master/stocks/AAPL.csv) and [$TSLA](https://github.com/gumdropsteve/datasets/raw/master/stocks/TSLA.csv) stock data.
 
-Level 2 Bonus: Create the same line, scatter, and bar plots you created yesterday, but with Bokeh.
+Level 2 Bonus: Create the same line, scatter, and bar plots you created yesterday, but with Bokeh. [Titanic dataset](https://raw.githubusercontent.com/gumdropsteve/intro_to_python/main/day_09/data/titanic.csv) or dataset of your choosing.
 
 Level 3 Bonus: Create a chart to tell me something about this data: https://github.com/gumdropsteve/datasets/raw/master/airlines.parquet (how to read in below)
 ```python
