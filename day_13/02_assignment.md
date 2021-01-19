@@ -9,7 +9,7 @@ Then continue on to complete the following notebooks:
 
 Go through all of the above notebooks and **submit the last presentation Notebook**.
 
-Level 1 Bonus: Create a line chart to compare [$AAPL](https://github.com/gumdropsteve/datasets/raw/master/stocks/AAPL.csv) and [$TSLA](https://github.com/gumdropsteve/datasets/blob/master/stocks/TSLA.csv) stock data.
+Level 1 Bonus: Create a line chart to compare [$AAPL](https://github.com/gumdropsteve/datasets/raw/master/stocks/AAPL.csv) and [$TSLA](https://github.com/gumdropsteve/datasets/raw/master/stocks/TSLA.csv) stock data.
 
 Level 2 Bonus: Create the same line, scatter, and bar plots you created yesterday, but with Bokeh.
 
