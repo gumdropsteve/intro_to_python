@@ -1,5 +1,4 @@
-This project will encompass the everything we have learned so far with Python Data Science tools and should be done with your project groups that we created at the beginning of the module (you may also do this individually).
-
+This project will encompass everything we have learned so far with Python Data Science tools and should be done with your project groups from last week.
 
 ### Deleverables
 - Dash app with EDA visualizations
